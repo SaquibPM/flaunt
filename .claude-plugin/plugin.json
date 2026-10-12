@@ -1,0 +1,18 @@
+{
+  "name": "flaunt",
+  "description": "Reads your codebase, ranks what your product does, writes the story, then drives the real app through live flows and cuts a 25-40 second launch video in your theme, ending on your logo.",
+  "version": "0.5.6",
+  "author": {
+    "name": "Saquib Jawed"
+  },
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "demo",
+    "launch",
+    "marketing",
+    "playwright",
+    "ffmpeg",
+    "skill"
+  ]
+}

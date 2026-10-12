@@ -1,0 +1,9 @@
+{
+  "name": "flaunt-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Recorder and composer used by the flaunt skill",
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
