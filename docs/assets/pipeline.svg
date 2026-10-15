@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#16161a" opacity=".45"/></marker>
+    <filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#16161a" flood-opacity=".08"/></filter>
+  </defs>
+  <rect width="1280" height="560" rx="24" fill="#efede7"/>
+
+  <text x="48" y="58" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#16161a">How a flaunt run works</text>
+  <text x="48" y="86" font-size="15" fill="#16161a" opacity=".6">Understand the product before filming it. Every stage leaves a file you can read and edit in <tspan font-family="ui-monospace, Menlo, monospace">.flaunt/</tspan></text>
+
+  <!-- phase columns -->
+  <g font-size="12" font-weight="700" letter-spacing="1.6">
+    <rect x="48" y="112" width="380" height="410" rx="18" fill="#ffffff" opacity=".55"/>
+    <rect x="450" y="112" width="380" height="410" rx="18" fill="#ffffff" opacity=".55"/>
+    <rect x="852" y="112" width="380" height="410" rx="18" fill="#3e6b4f" opacity=".1"/>
+    <text x="72" y="144" fill="#3e6b4f">1 · UNDERSTAND</text>
+    <text x="474" y="144" fill="#3e6b4f">2 · SHOOT</text>
+    <text x="876" y="144" fill="#3e6b4f">3 · CUT</text>
+  </g>
+
+  <!-- step cards: helper layout, each 332x78 -->
+  <g font-size="16" font-weight="700" fill="#16161a">
+    <!-- UNDERSTAND -->
+    <g transform="translate(72 162)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(72 162)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">1</text>
+      <text x="54" y="34">Read the codebase</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">routes, modules, docs, README weight</text></g>
+
+    <g transform="translate(72 254)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(72 254)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">2</text>
+      <text x="54" y="34">Classify capabilities</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">pillars · proof · depth</text></g>
+
+    <g transform="translate(72 346)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(72 346)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">3</text>
+      <text x="54" y="34">Write the story</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">hook → hero → pillars → proof → close</text></g>
+
+    <!-- SHOOT -->
+    <g transform="translate(474 162)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(474 162)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">4</text>
+      <text x="54" y="34">Match your look</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">real colours, light/dark, your logo</text></g>
+
+    <g transform="translate(474 254)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(474 254)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">5</text>
+      <text x="54" y="34">Plan the shots</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">flows, marks, callouts, ramps, crops</text></g>
+
+    <g transform="translate(474 346)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(474 346)"><circle cx="28" cy="39" r="14" fill="#16161a"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#efede7">6</text>
+      <text x="54" y="34">Record live flows</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">Playwright drives your real local app</text></g>
+
+    <!-- CUT -->
+    <g transform="translate(876 162)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(876 162)"><circle cx="28" cy="39" r="14" fill="#3e6b4f"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#fff">7</text>
+      <text x="54" y="34">Compose</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">beat-snapped cuts, stat cards, soundtrack</text></g>
+
+    <g transform="translate(876 254)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(876 254)"><circle cx="28" cy="39" r="14" fill="#3e6b4f"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#fff">8</text>
+      <text x="54" y="34">Review like a director</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">contact sheet vs an 18-point checklist</text></g>
+
+    <g transform="translate(876 346)" filter="url(#sh)"><rect width="332" height="78" rx="12" fill="#fff"/></g>
+    <g transform="translate(876 346)"><circle cx="28" cy="39" r="14" fill="#3e6b4f"/><text x="28" y="44" text-anchor="middle" font-size="13" fill="#fff">9</text>
+      <text x="54" y="34">Hand off</text>
+      <text x="54" y="56" font-size="13" font-weight="400" opacity=".6">video + post copy + every claim sourced</text></g>
+  </g>
+
+  <!-- arrows between phases -->
+  <path d="M410 293 H446" stroke="#16161a" stroke-opacity=".45" stroke-width="2" marker-end="url(#ar)"/>
+  <path d="M812 293 H848" stroke="#16161a" stroke-opacity=".45" stroke-width="2" marker-end="url(#ar)"/>
+
+  <!-- artifacts -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" font-weight="600" fill="#16161a">
+    <g transform="translate(72 446)">
+      <rect width="112" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="56" y="18.5" text-anchor="middle">inventory.json</text>
+      <rect x="118" width="112" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="174" y="18.5" text-anchor="middle">product-map.md</text>
+      <rect x="236" width="96" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="284" y="18.5" text-anchor="middle">script.md</text>
+    </g>
+    <g transform="translate(474 446)">
+      <rect width="104" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="52" y="18.5" text-anchor="middle">shotlist.json</text>
+      <rect x="110" width="76" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="148" y="18.5" text-anchor="middle">assets/</text>
+      <rect x="192" width="84" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="234" y="18.5" text-anchor="middle">footage/</text>
+    </g>
+    <g transform="translate(876 446)">
+      <rect width="100" height="28" rx="14" fill="#3e6b4f"/><text x="50" y="18.5" text-anchor="middle" fill="#fff">flaunt.mp4</text>
+      <rect x="106" width="76" height="28" rx="14" fill="#3e6b4f" opacity=".85"/><text x="144" y="18.5" text-anchor="middle" fill="#fff">post.md</text>
+      <rect x="188" width="80" height="28" rx="14" fill="#16161a" opacity=".07"/><text x="228" y="18.5" text-anchor="middle">facts.md</text>
+    </g>
+  </g>
+  <g font-size="12" fill="#16161a" opacity=".5">
+    <text x="72" y="500">inventory.mjs</text>
+    <text x="474" y="500">theme.mjs · explore.mjs · record.mjs</text>
+    <text x="876" y="500">compose.mjs · music.mjs</text>
+  </g>
+</svg>

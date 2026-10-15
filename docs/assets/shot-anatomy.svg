@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="m" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6"><circle cx="5" cy="5" r="4" fill="#16161a"/></marker></defs>
+<rect width="1280" height="440" rx="24" fill="#efede7"/>
+<text x="48" y="58" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#16161a">One shot: 7.3 s of real recording, 3 s on screen</text>
+<text x="48" y="86" font-size="15" fill="#16161a" opacity=".6">Marks timestamp the real moments. Ramps fast-forward the waiting. Callouts land exactly on the event. (Illustrative timings.)</text>
+<g font-size="13" font-weight="700" letter-spacing="1.4" fill="#16161a" opacity=".6"><text x="48" y="168">RECORDED</text><text x="48" y="336">IN THE CUT</text></g>
+<rect x="181.5" y="140" width="299.6" height="44" rx="9" fill="#5f8a6e"/><text x="193.5" y="168" font-size="14" font-weight="700" fill="#fff">Typing the question</text><text x="469.1" y="168" font-size="13" text-anchor="end" fill="#fff" opacity=".75">1.5×</text>
+<rect x="181.5" y="308" width="198.8" height="44" rx="9" fill="#5f8a6e"/><path d="M180.0 188 L180.0 304" stroke="#16161a" stroke-opacity=".15" stroke-dasharray="4 4"/>
+<rect x="484.1" y="140" width="573.4" height="44" rx="9" fill="#d9d3c2"/><text x="496.1" y="168" font-size="14" font-weight="700" fill="#16161a">Agent thinking</text><text x="1045.6" y="168" font-size="13" text-anchor="end" fill="#16161a" opacity=".75">5× ramp</text>
+<rect x="383.3" y="308" width="112.3" height="44" rx="9" fill="#d9d3c2"/><path d="M482.6 188 L381.8 304" stroke="#16161a" stroke-opacity=".15" stroke-dasharray="4 4"/>
+<rect x="1060.6" y="140" width="169.9" height="44" rx="9" fill="#3e6b4f"/><text x="1072.6" y="168" font-size="14" font-weight="700" fill="#fff">Answer arrives</text><text x="1218.5" y="168" font-size="13" text-anchor="end" fill="#fff" opacity=".75">1.5×</text>
+<rect x="498.5" y="308" width="112.3" height="44" rx="9" fill="#3e6b4f"/><path d="M1059.1 188 L497.0 304" stroke="#16161a" stroke-opacity=".15" stroke-dasharray="4 4"/>
+<path d="M1232.0 188 L612.3 304" stroke="#16161a" stroke-opacity=".15" stroke-dasharray="4 4"/>
+<line x1="180.0" y1="114" x2="180.0" y2="140" stroke="#16161a" stroke-width="2"/><circle cx="180.0" cy="112" r="4" fill="#16161a"/><text x="188.0" y="116" font-family="ui-monospace, Menlo, monospace" font-size="12.5" font-weight="600" fill="#16161a">mark:"typing"</text>
+<line x1="482.6" y1="114" x2="482.6" y2="140" stroke="#16161a" stroke-width="2"/><circle cx="482.6" cy="112" r="4" fill="#16161a"/><text x="490.6" y="116" font-family="ui-monospace, Menlo, monospace" font-size="12.5" font-weight="600" fill="#16161a">mark:"submit"</text>
+<line x1="1059.1" y1="114" x2="1059.1" y2="140" stroke="#16161a" stroke-width="2"/><circle cx="1059.1" cy="112" r="4" fill="#16161a"/><text x="1067.1" y="116" font-family="ui-monospace, Menlo, monospace" font-size="12.5" font-weight="600" fill="#16161a">mark:"results"</text>
+<rect x="194.4" y="366" width="172.9" height="30" rx="15" fill="#16161a"/><circle cx="210.4" cy="381" r="4" fill="#7fc596"/><text x="222.4" y="386" font-size="13" font-weight="600" fill="#fff">Type to ask</text>
+<rect x="497.0" y="366" width="189.6" height="30" rx="15" fill="#16161a"/><circle cx="513.0" cy="381" r="4" fill="#7fc596"/><text x="525.0" y="386" font-size="13" font-weight="600" fill="#fff">Answers with evidence</text>
+<text x="48" y="386" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#16161a" opacity=".5">CALLOUTS</text>
+<g transform="translate(760.0 298)"><text font-size="40" font-weight="800" letter-spacing="-1.5" fill="#3e6b4f" y="40">3.0 s</text><text x="0" y="66" font-size="14" fill="#16161a" opacity=".65">snapped to whole beats, so the cut</text><text x="0" y="86" font-size="14" fill="#16161a" opacity=".65">lands on the music</text></g>
+</svg>

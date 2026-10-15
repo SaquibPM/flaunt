@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1280" height="470" rx="24" fill="#efede7"/>
+  <text x="48" y="58" font-size="26" font-weight="800" letter-spacing="-0.6" fill="#16161a">Not every feature earns a shot</text>
+  <text x="48" y="86" font-size="15" fill="#16161a" opacity=".6">flaunt ranks what it found in your code, then decides how much screen time each capability gets.</text>
+
+  <!-- tiers as stacked bands, width = screen time -->
+  <g>
+    <rect x="48" y="118" width="760" height="92" rx="16" fill="#3e6b4f"/>
+    <text x="76" y="156" font-size="13" font-weight="700" letter-spacing="1.6" fill="#ffffff" opacity=".8">TIER 1 · PILLARS · 3–5</text>
+    <text x="76" y="186" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#ffffff">Shown live, one scene each</text>
+    <text x="784" y="186" font-size="14" fill="#ffffff" opacity=".85" text-anchor="end">what makes it this product</text>
+
+    <rect x="48" y="222" width="540" height="92" rx="16" fill="#3e6b4f" opacity=".45"/>
+    <text x="76" y="260" font-size="13" font-weight="700" letter-spacing="1.6" fill="#16161a" opacity=".7">TIER 2 · PROOF &amp; OUTPUTS · 2–4</text>
+    <text x="76" y="290" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#16161a">Briefly, or as a stat card</text>
+
+    <rect x="48" y="326" width="320" height="92" rx="16" fill="#16161a" opacity=".1"/>
+    <text x="76" y="364" font-size="13" font-weight="700" letter-spacing="1.6" fill="#16161a" opacity=".6">TIER 3 · DEPTH</text>
+    <text x="76" y="394" font-size="22" font-weight="800" letter-spacing="-0.4" fill="#16161a">A count or the end line</text>
+
+    <text x="48" y="446" font-size="12.5" fill="#16161a" opacity=".5">bar width ≈ screen time</text>
+  </g>
+
+  <!-- ranking criteria -->
+  <g transform="translate(860 118)">
+    <rect width="372" height="300" rx="18" fill="#ffffff" opacity=".7"/>
+    <text x="28" y="40" font-size="13" font-weight="700" letter-spacing="1.6" fill="#3e6b4f">RANKED BY, IN ORDER</text>
+    <g font-size="16" fill="#16161a">
+      <circle cx="40" cy="80" r="13" fill="#16161a"/><text x="40" y="85" text-anchor="middle" font-size="12" font-weight="700" fill="#efede7">1</text>
+      <text x="64" y="85" font-weight="700">Weight in README &amp; docs</text>
+      <path d="M40 95v22" stroke="#16161a" stroke-opacity=".2" stroke-width="2"/>
+      <circle cx="40" cy="132" r="13" fill="#16161a"/><text x="40" y="137" text-anchor="middle" font-size="12" font-weight="700" fill="#efede7">2</text>
+      <text x="64" y="137" font-weight="700">Distinctiveness</text>
+      <path d="M40 147v22" stroke="#16161a" stroke-opacity=".2" stroke-width="2"/>
+      <circle cx="40" cy="184" r="13" fill="#16161a"/><text x="40" y="189" text-anchor="middle" font-size="12" font-weight="700" fill="#efede7">3</text>
+      <text x="64" y="189" font-weight="700">Code &amp; screen weight</text>
+      <path d="M40 199v22" stroke="#16161a" stroke-opacity=".2" stroke-width="2"/>
+      <circle cx="40" cy="236" r="13" fill="#3e6b4f"/><text x="40" y="241" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">4</text>
+      <text x="64" y="241" font-weight="700">Demonstrability</text>
+    </g>
+    <text x="64" y="264" font-size="13" fill="#16161a" opacity=".6">No reliable live flow? It becomes a</text>
+    <text x="64" y="282" font-size="13" fill="#16161a" opacity=".6">stat or a callout, never a faked screen.</text>
+  </g>
+</svg>
